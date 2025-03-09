@@ -26,6 +26,6 @@ Objective: Guide users through establishing a Remote Desktop Protocol (RDP) sess
 •	It is commonly used for IT support, remote work, and system administration. RDP allows keyboard and mouse inputs to be sent remotely, while the screen display is streamed back to the user.<br>
 •	Port Number: 3389 (TCP & UDP)<br>
 •	In Wireshark: Filtering for rdp will show RDP session traffic. While the actual screen data is encrypted, monitoring RDP traffic can help detect unauthorized remote access attempts.<br>
-<img width="1512" alt="Step 8a - RDP" src="https://github.com/user-attachments/assets/96cedc2b-25a4-4b0d-bedc-34199620c4e9" />
 
+<img width="1512" alt="Step 8a - RDP" src="https://github.com/user-attachments/assets/4178fabd-683a-4f19-bbc2-d48b6cf5222a" />
 
